@@ -1,0 +1,16 @@
+{
+  "description": "D\u00e9monstration du module webRequests",
+  "manifest_version": 2,
+  "name": "webRequest-demo",
+  "version": "1.0",
+
+  "permissions": [
+    "webRequest",
+    "<all_urls>",
+    "downloads"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
