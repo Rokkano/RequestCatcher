@@ -6,4 +6,4 @@ L'extension peut être chargée en accédant à la page about:debugging de firef
 
 # Attention
 
-Même si cette extension est simple, elle peut être assez dangereuse et entrainer de gros ralentissement des capacités du navigateur. Il est donc déconseillé de la garder activée sur des sites axés sur la recherche d'image comme Google Image ou Pinterest (même si cela dépend aussi du début de connexion de l'ordinateur de l'utilisateur).
+Même si cette extension est simple, elle peut être assez dangereuse et entrainer de gros ralentissement des capacités du navigateur. Il est donc déconseillé de la garder activée sur des sites axés sur la recherche d'image comme Google Image ou Pinterest (même si cela dépend aussi du débit de connexion de l'ordinateur de l'utilisateur).
